@@ -137,6 +137,6 @@
 
 <script lang="ts">
 export default {
-  name: 'section-mark',
+  name: 'section-bemark',
 }
 </script>

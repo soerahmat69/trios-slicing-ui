@@ -99,7 +99,7 @@
       </svg>
     </div>
 
-    <SectionMark />
+    <SectionBemark />
 
     <SectionTeam />
 
@@ -112,9 +112,9 @@
 </template>
 
 <script lang="ts">
+import SectionBemark from '@/components/Section-bemark.vue'
 import SectionDesc from '@/components/Section-desc.vue'
 import SectionGalery from '@/components/Section-galery.vue'
-import SectionMark from '@/components/Section-Mark.vue'
 import SectionTeam from '@/components/Section-team.vue'
 import SectionVacature from '@/components/Section-vacature.vue'
 import gsap from 'gsap'
@@ -124,7 +124,7 @@ export default {
   name: 'About-us',
   components: {
     SectionTeam,
-    SectionMark,
+    SectionBemark,
     SectionDesc,
     SectionGalery,
     SectionVacature,
