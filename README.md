@@ -17,7 +17,7 @@ sliciing website trios for page about trios
 
 # live demo
 
--> https://trios-website.netlify.app
+-> https://trios-eight.vercel.app/
 
 ## Project Setup
 
