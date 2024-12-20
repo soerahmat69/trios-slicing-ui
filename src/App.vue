@@ -3,7 +3,8 @@
 
   <HeaderCompo />
 
-  <RouterView />
+  <!-- <RouterView /> -->
+  <router-view> </router-view>
 
   <FooterCompo />
 </template>
