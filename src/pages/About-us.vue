@@ -49,10 +49,10 @@
         ></path>
       </svg>
       <div class="peopple-img">
-        <img src="./assets/images/674f0c34429e670b3566a0c7_sticky-contact-portret-2.png" alt="" />
+        <img src="../assets/images/674f0c34429e670b3566a0c7_sticky-contact-portret-2.png" alt="" />
         <img
           class="p-2"
-          src="./assets/images/674f0c34429e670b3566a0c7_sticky-contact-portret-2.png"
+          src="../assets/images/674f0c34429e670b3566a0c7_sticky-contact-portret-2.png"
           alt=""
         />
       </div>
