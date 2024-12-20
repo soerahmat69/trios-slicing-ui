@@ -15,6 +15,10 @@ sliciing website trios for page about trios
 -> slidedown
 -> scrolltrigger
 
+# live demo
+
+-> https://trios-website.netlify.app
+
 ## Project Setup
 
 ```sh
