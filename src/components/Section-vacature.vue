@@ -22,7 +22,7 @@
           </div>
           <div>
             <img
-              class="w-medium-hidden"
+              class="w-medium-hidden w-small-hidden"
               src="../assets/images/6751cac1e85c1178d515e4e5_Trios-Portretten-Liike-2700px-0402051.jpg"
               alt=""
             />
